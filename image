@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>image</title>
+    </head>
+    <body>
+        <img src="twins.jpg" alt="twins" width="500">
+    </body>
+</html>
